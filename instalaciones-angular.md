@@ -1,34 +1,9 @@
-Instalaciones recomendadas - Curso de Angular
-Instalaciones Necesarias
-Google Chrome
-
-Visual Studio Code
-
-Postman
-
-Mongo Compass
-
-Git
-
 # Instalaciones recomendadas - Curso de Angular
 
 ## Instalaciones Necesarias
 * [Google Chrome](https://www.google.com/chrome/)
 
 * [Visual Studio Code](https://code.visualstudio.com/)
-
-* [Postman](https://www.postman.com/downloads/)
-
-* [Mongo Compass](https://www.mongodb.com/try/download/compass)
-
-* [Git](https://git-scm.com/)
-
-* [Crear cuenta en GitHub](https://github.com/)
-
-```
-git config --global user.name "Tu nombre"
-git config --global user.email "Tu correo"
-```
 
 * [Node](https://nodejs.org/es/)
 
@@ -65,4 +40,3 @@ git config --global user.email "Tu correo"
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 * [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
-TypeScript importer
